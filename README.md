@@ -2,7 +2,7 @@
 
 # Sujet
 
-[Le sujet 2021](https://www.fil.univ-lille1.fr/portail/index.php?dipl=L&sem=S4&ue=Projet&label=Documents)
+[Le sujet 2021](https://www.fil.univ-lille1.fr/~varre/portail/l2s4-projet/sujet2021.pdf)
 
 # Livrables
 
@@ -271,4 +271,5 @@ et lancer FarmMain.java dans exclipse
 * Pour générer les tests il faut les génerer sue Eclipse 
 
 ![demoFarm](https://gitlab-etu.fil.univ-lille1.fr/lakehala/l2s4-projet-2021/-/raw/master/images/Demo_FarmGAme.gif)
+
 ![demoWar](https://gitlab-etu.fil.univ-lille1.fr/lakehala/l2s4-projet-2021/-/raw/master/images/demo_warGame.gif)

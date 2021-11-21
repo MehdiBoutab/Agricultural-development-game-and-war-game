@@ -1,11 +1,4 @@
-# -projet-2021 - Groupe 3
-
-# 
-
-- Aya LAKEHAL
-- Mehdi BOUTAB  
-- Fayssal EL ANSARI
-- Zakaria HASSEIN BEY
+# Projet-Java
 
 # Sujet
 

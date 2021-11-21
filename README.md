@@ -2,7 +2,7 @@
 
 # Sujet
 
-[Le sujet 2021](https://www.fil.univ-lille1.fr/~varre/portail/l2s4-projet/sujet2021.pdf)
+[Le sujet 2021](https://github.com/MehdiBoutab/Agricultural-development-game-and-war-game/blob/main/sujet2021.pdf)
 
 # Livrables
 
